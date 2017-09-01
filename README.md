@@ -6,7 +6,7 @@ This is intended to be used as a guide to various systems and processes for our 
 <h2>Playbook sections</h2>
 <ul>
   <li>Culture and the workplace</li>
-  <li>Policies</li>
+  <li>Guidelines</li>
   <li>Onboarding</li>
   <li>Things not yet in this playbook</li>
 </ul>
